@@ -163,9 +163,9 @@ Oscilloscope-V2.0/
 ## Contributors / 贡献者
 
 - Hardware Design: Original author from oshwhub
-- Software Improvements: Project maintainer
-- Code Translation & Documentation: Claude AI Assistant
+- Software Improvements: Eureka_pg
 
 ## Screenshots / 截图
 
 *Coming soon / 即将添加*
+等我TFT来了再拍照吧，hhh
