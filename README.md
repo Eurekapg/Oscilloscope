@@ -55,7 +55,8 @@ The software has been significantly improved from the original hardware design:
 - **Better Trigger Logic** - Reliable rising edge detection with boundary checks
 - **Full-screen Display** - Maximized waveform viewing area (155x128 pixels)
 - **Multi-page UI** - Clean separation between oscilloscope, PWM, and art display modes
-- **Code Quality** - All comments translated to English, clear layered architecture
+- **Code conflicts** - Ensure some comments are translated to English to prevent encoding conflicts flash consumption
+- **RLE** - Employ the use of Run-Length Encoding (RLE) in order to minimize flash storage usage.
 
 ### Building the Project
 
@@ -133,7 +134,8 @@ Oscilloscope-V2.0/
 - **更好的触发逻辑** - 可靠的上升沿检测，带边界检查
 - **全屏显示** - 最大化波形显示区域(155x128像素)
 - **多页面UI** - 示波器、PWM和艺术显示模式清晰分离
-- **代码质量** - 所有注释翻译为英文，清晰的分层架构
+- **编码冲突** - 确保将部分注释翻译为英文，以防止因编码问题引发的冲突
+- **RLE** - 采用游程编码(RLE)以最小化Flash存储使用
 
 ### 编译项目
 
@@ -168,4 +170,7 @@ Oscilloscope-V2.0/
 ## Screenshots / 截图
 
 *Coming soon / 即将添加*
+
 等我TFT来了再拍照吧，hhh
+
+---
